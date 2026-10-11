@@ -1,0 +1,15 @@
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\bin\Debug\net10.0\Uloha6.exe
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\bin\Debug\net10.0\Uloha6.deps.json
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\bin\Debug\net10.0\Uloha6.runtimeconfig.json
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\bin\Debug\net10.0\Uloha6.dll
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\bin\Debug\net10.0\Uloha6.pdb
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\obj\Debug\net10.0\Uloha6.GeneratedMSBuildEditorConfig.editorconfig
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\obj\Debug\net10.0\Uloha6.AssemblyInfoInputs.cache
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\obj\Debug\net10.0\Uloha6.AssemblyInfo.cs
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\obj\Debug\net10.0\Uloha6.csproj.CoreCompileInputs.cache
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\obj\Debug\net10.0\Uloha6.dll
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\obj\Debug\net10.0\refint\Uloha6.dll
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\obj\Debug\net10.0\Uloha6.pdb
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\obj\Debug\net10.0\Uloha6.genruntimeconfig.cache
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\obj\Debug\net10.0\ref\Uloha6.dll
+C:\DELTA\PR_2B\cody_s_hodin\Uloha6\Uloha6\obj\Debug\net10.0\Uloha6.csproj.Up2Date
